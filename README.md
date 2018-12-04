@@ -1,1 +1,1 @@
-# trojan
+Data structures are used to store data in a computer in an organized form. In C++ language, Different types of data structures are; Array, Stack, Queue, Linked List, Tree. Sorting technique are merge sort, shell sort, bubble sort, Quick sort, Selection sort, Heap sort etc
